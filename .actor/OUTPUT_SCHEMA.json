@@ -1,0 +1,1 @@
+{"actorOutputSchemaVersion":1,"description":"Job postings scraped from public ATS boards, one row per job.","properties":{"dataset":{"description":"Dataset with one row per scraped job posting: title, company, locations, salary, apply URL and description.","template":"{{links.apiDefaultDatasetUrl}}/items","title":"Jobs","type":"string"}},"title":"ATS Job Scraper output"}

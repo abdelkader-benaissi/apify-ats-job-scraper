@@ -1,0 +1,5 @@
+# Apify SDK (explicit: not guaranteed in the base image) + HTTP stack.
+# This actor is HTTP-only: no Playwright/browser needed.
+apify
+httpx
+beautifulsoup4
